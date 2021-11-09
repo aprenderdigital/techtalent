@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_8"><path d="M0,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c1_8"><path d="M227,825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c2_8"><path d="M52.3,495V329.7H217.9V495Z"/></clipPath>
+<clipPath id="c3_8"><path d="M366.1,790.5V652.7H503.6V790.5Z"/></clipPath>
+<clipPath id="c4_8"><path d="M439.4,305.6V171.1H573.5V305.6Z"/></clipPath>
+<clipPath id="c5_8"><path d="M488.9,206.6V174.8h34.8v31.8Z"/></clipPath>
+<clipPath id="c6_8"><path d="M539.3,514.6V405.8H657.6V514.6Z"/></clipPath>
+<clipPath id="c7_8"><path d="M1026.7,334c-28.7,-.4,-53.8,-15.2,-68,-37.4V212.1c8.8,-13.7,21.8,-24.6,37.2,-31h63.6c28.6,11.8,48.7,39.1,49.6,71v4.5c-1.2,42.6,-36.6,76.8,-80.3,77.4Z"/></clipPath>
+<clipPath id="c8_8"><path d="M1318.5,825v-1.2h148.2V825Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_8{
+fill: #FFFFFF;
+}
+.g1_8{
+fill: none;
+stroke: #FFFF00;
+stroke-width: 3.437;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 8;
+}
+.g2_8{
+fill: #FFFF00;
+}
+.g3_8{
+fill: #4472C4;
+}
+]]></style>
+</defs>
+<path d="M0,825H1466.7V0H0V825Z" class="g0_8"/>
+<image clip-path="url(#c0_8)" preserveAspectRatio="none" x="0" y="0" width="1467" height="825" xlink:href="img/1.jpg"/>
+<image clip-path="url(#c1_8)" preserveAspectRatio="none" x="227" y="0" width="1240" height="825" xlink:href="img/2.jpg"/>
+<path d="M181.7,466.7c72.4,42,106.3,14.3,180.7,-16.2c67.6,-27.7,126.2,-2,156.2,7.7" class="g1_8"/>
+<path fill-rule="evenodd" d="M518.4,452.8l8.5,7.8l-11.3,2.1Z" class="g2_8"/>
+<path d="M901.5,363.8c-7,43.8,-106,15.2,-144.3,28.3c-36,12.2,-29.9,66.8,-71.5,73.1" class="g1_8"/>
+<path fill-rule="evenodd" d="M687.8,470.2l-10.7,-4.4l9.9,-5.9Z" class="g2_8"/>
+<path d="M1064.9,333.5c25.6,28.8,104.5,53.8,111,100c7,49.9,-98.5,89.1,-102,157" class="g1_8"/>
+<path fill-rule="evenodd" d="M1061.7,337.9l-1.9,-11.4l10.2,5.3Z" class="g2_8"/>
+<path d="M1018.9,341.2C1004.5,373,921,493.2,868.5,528.7C816,564.2,783.1,541.2,703.8,554.1C626.1,566.7,660.5,781.2,518.7,761.5" class="g1_8"/>
+<path fill-rule="evenodd" d="M519.1,766.8L509.8,760l11,-3.3Z" class="g2_8"/>
+<path d="M596,500.3c-.8,40.2,-51.8,41.5,-60.3,63.1c-8.4,21.5,17.6,47.9,9.8,66.1c-7.3,16.9,-16.1,26.2,-48.7,39.7" class="g1_8"/>
+<path fill-rule="evenodd" d="M500.2,673.3l-11.5,-.9l7.7,-8.6Z" class="g2_8"/>
+<path d="M353.4,738.9c-79.8,2,-157.2,2.4,-195,-39.2C122.2,659.8,122.6,565.8,126,498.1" class="g1_8"/>
+<path fill-rule="evenodd" d="M120.7,499.4l5.7,-10.1l4.6,10.6Z" class="g2_8"/>
+<path d="M572.5,263.8c24.4,12.8,4.5,34.7,20.4,67.5c15.3,31.4,50.5,34.9,30.9,88.5" class="g1_8"/>
+<path fill-rule="evenodd" d="M629.2,420.2l-8.6,7.7l-1,-11.5Z" class="g2_8"/>
+<image clip-path="url(#c2_8)" preserveAspectRatio="none" x="52" y="330" width="166" height="165" xlink:href="img/3.png"/>
+<image clip-path="url(#c3_8)" preserveAspectRatio="none" x="366" y="653" width="138" height="137" xlink:href="img/4.png"/>
+<image clip-path="url(#c4_8)" preserveAspectRatio="none" x="439" y="171" width="135" height="135" xlink:href="img/5.png"/>
+<image clip-path="url(#c5_8)" preserveAspectRatio="none" x="489" y="175" width="35" height="32" xlink:href="img/6.png"/>
+<image clip-path="url(#c6_8)" preserveAspectRatio="none" x="539" y="406" width="119" height="109" xlink:href="img/7.png"/>
+<path fill-rule="evenodd" d="M959.4,252.2c0,-37.7,30.6,-68.3,68.3,-68.3c37.8,0,68.3,30.6,68.3,68.3c0,37.8,-30.5,68.3,-68.3,68.3C990,320.5,959.4,290,959.4,252.2Z" class="g3_8"/>
+<image clip-path="url(#c7_8)" preserveAspectRatio="none" x="959" y="181" width="150" height="153" xlink:href="img/8.png"/>
+<image clip-path="url(#c8_8)" preserveAspectRatio="none" x="1318" y="824" width="150" height="149" xlink:href="img/9.png"/>
+<image preserveAspectRatio="none" x="974" y="594" width="135" height="135" xlink:href="img/10.png"/>
+</svg>
